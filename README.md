@@ -32,8 +32,8 @@ The **End-to-End License Plate Recognition and Barrier Control System** is an in
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/xue85/End-to-End-License-Plate-Recognition-and-Barrier-Control-System.git
+   cd End-to-End-License-Plate-Recognition-and-Barrier-Control-System
 2. Install dependencies:
    pip install paddlepaddle paddleocr paddledetection
 
