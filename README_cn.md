@@ -32,8 +32,8 @@
 ### 安装步骤
 1. 克隆代码仓库：
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/xue85/End-to-End-License-Plate-Recognition-and-Barrier-Control-System.git
+   cd End-to-End-License-Plate-Recognition-and-Barrier-Control-System
 2. 安装依赖：
    pip install paddlepaddle paddleocr paddledetection
 
