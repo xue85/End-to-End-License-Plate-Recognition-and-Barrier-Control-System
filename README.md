@@ -34,3 +34,24 @@ The **End-to-End License Plate Recognition and Barrier Control System** is an in
    ```bash
    git clone https://github.com/your-repo-name.git
    cd your-repo-name
+2. Install dependencies:
+   pip install paddlepaddle paddleocr paddledetection
+
+## Configuration
+   Configure camera settings in config/camera.yaml.
+   Set up barrier control parameters in config/barrier.yaml.
+
+## Data Management
+The system supports API data integration, allowing for seamless connection with other systems for data analysis and monitoring. For more details on API integration, refer to the API Documentation.
+
+## Contributing
+We welcome contributions from the community! If you would like to contribute to this project, please follow these steps:
+1.Fork the repository.
+2.Create a new branch for your feature or bug fix.
+3.Submit a pull request for review.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+For any questions or support, please contact us at 554384509@qq.com .
