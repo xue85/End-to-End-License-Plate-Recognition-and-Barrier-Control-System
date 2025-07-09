@@ -34,24 +34,24 @@
    ```bash
    git clone https://github.com/your-repo-name.git
    cd your-repo-name
-2.安装依赖：
-pip install paddlepaddle paddleocr paddledetection
+2. 安装依赖：
+   pip install paddlepaddle paddleocr paddledetection
 
-##配置
+## 配置
 在config/camera.yaml中配置摄像头参数。
 在config/barrier.yaml中设置道闸控制参数。
 
-##数据管理
+## 数据管理
 系统支持API数据对接，可无缝连接其他系统进行数据分析和监控。更多API对接细节请参考API文档。
 
-##贡献指南
+## 贡献指南
 欢迎社区贡献！如果您想参与本项目，请按照以下步骤操作：
 1.叉取（Fork）本仓库。
 2.创建一个新的分支用于添加功能或修复问题。
 3.提交拉取请求（Pull Request）以供审核。
 
-##许可证
+## 许可证
 本项目采用 MIT 许可证，详情请参阅LICENSE文件。
 
-##联系方式
+## 联系方式
 如有任何问题或需要支持，请通过554384509@qq.com与我们联系。
